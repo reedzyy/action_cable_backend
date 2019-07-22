@@ -7,12 +7,12 @@ default: &default
 
 development:
   <<: *default
-  database: pokemon-app_development
+  database: chat_development
 
 test:
   <<: *default
-  database: pokemon-app_test
+  database: chat_test
 
 production:
   <<: *default
-  database: pokemon-app_production
+  database: chat_production
