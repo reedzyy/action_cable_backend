@@ -1,4 +1,4 @@
-# Chat app with a [React front-end](https://github.com/leshkacore/action_cable_frontend) and a Rails API back-end
+## Chat app with a [React front-end](https://github.com/leshkacore/action_cable_frontend) and a Rails API back-end
 
 This is a chat app with a React front-end and a Rails API back-end. I made it with the goal of familiarizing myself with WebSockets, and Rails’ tool for implementing them, Action Cable.
 
